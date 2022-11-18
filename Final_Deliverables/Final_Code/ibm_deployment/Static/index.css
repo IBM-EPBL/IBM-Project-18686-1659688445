@@ -1,0 +1,36 @@
+.header1{
+    font-size: 50px;
+}
+.header1 img{
+    width: 20px;
+}
+body{
+    background-image: linear-gradient(cyan,white);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+label{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    display: inline-block;
+    width:120px;
+    text-align: left;
+}
+.fill{
+    display: block;
+    position: relative;
+    left: 25%;
+    border: solid 3px black;
+    border-radius: 10px 60px;
+    padding: 40px 60px;
+    max-width: 600px;
+    width: 70%;
+}
+input{
+    color: black;
+    border-radius: 30px;
+    height: 30px;
+    width: 40%;
+}
